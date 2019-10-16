@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": "f3e323b3-56d0-414c-bc23-d6b177db47e4",
+            "name": "Beans - French",
+            "description": "quam pede lobortis ligula sit amet eleifend pede libero quis",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/dddddd/000000"
+        },
+        {
+            "id": "16aca8a9-bb34-40e2-b292-0a3e4604ef99",
+            "name": "Anisette - Mcguiness",
+            "description": "sapien arcu sed augue aliquam erat volutpat in congue etiam",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "5203196a-0fff-4931-aca4-026fbe4768b1",
+            "name": "Puree - Mango",
+            "description": "leo odio porttitor id consequat in consequat ut nulla sed",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff"
+        },
+        {
+            "id": "546a49f3-0148-4181-b17d-e68f48a5eb6d",
+            "name": "Muffin - Mix - Creme Brule 15l",
+            "description": "cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/dddddd/000000"
+        },
+        {
+            "id": "d8372670-9563-416c-bb86-e790525c549e",
+            "name": "Bread - Raisin",
+            "description": "vestibulum velit id pretium iaculis diam erat fermentum justo nec",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff"
+        },
+        {
+            "id": "d5b45db8-3d0f-4221-a409-dee89073c250",
+            "name": "Beer - Alexander Kieths, Pale Ale",
+            "description": "nisl duis bibendum felis sed interdum venenatis turpis enim blandit",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff"
+        },
+        {
+            "id": "2f85e998-d689-4b55-ab0c-f753fc966227",
+            "name": "Oil - Food, Lacquer Spray",
+            "description": "rutrum ac lobortis vel dapibus at diam nam tristique tortor",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/cc0000/ffffff"
+        },
+        {
+            "id": "845cec7f-218f-47e9-9afe-82906d8892eb",
+            "name": "Chicken - Ground",
+            "description": "phasellus in felis donec semper sapien a libero nam dui",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff"
+        },
+        {
+            "id": "56b69aaf-d87e-4f6a-9509-27b4e1f7f748",
+            "name": "Pineapple - Regular",
+            "description": "in hac habitasse platea dictumst maecenas ut massa quis augue",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/dddddd/000000"
+        },
+        {
+            "id": "6d7f6e93-3da2-4ae1-88a6-8bf45a3bd102",
+            "name": "Wine La Vielle Ferme Cote Du",
+            "description": "arcu libero rutrum ac lobortis vel dapibus at diam nam",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "3a811efd-0531-4f67-946d-e2670bb380b0",
+            "name": "Vol Au Vents",
+            "description": "orci luctus et ultrices posuere cubilia curae duis faucibus accumsan",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "9f327ae9-6872-4be1-98ce-283dddeac82b",
+            "name": "Rabbit - Legs",
+            "description": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "724aa225-7178-4848-b268-968020c660c2",
+            "name": "Lighter - Bbq",
+            "description": "amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/cc0000/ffffff"
+        },
+        {
+            "id": "72a4c715-41ac-4a73-b037-2576a075e290",
+            "name": "Bread - White, Unsliced",
+            "description": "sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/cc0000/ffffff"
+        },
+        {
+            "id": "c1b4e150-4aeb-4a75-ab79-364e89e16729",
+            "name": "Honey - Comb",
+            "description": "nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "f06e32d0-6227-4f60-8548-e9359d9b12ec",
+            "name": "Wiberg Super Cure",
+            "description": "lectus in quam fringilla rhoncus mauris enim leo rhoncus sed",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/dddddd/000000"
+        },
+        {
+            "id": "d6b567cb-d871-411e-ba7f-150ae3448877",
+            "name": "Pie Filling - Apple",
+            "description": "aenean auctor gravida sem praesent id massa id nisl venenatis",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/dddddd/000000"
+        },
+        {
+            "id": "8c1da4d1-fabe-4246-bf9d-08be4a85def5",
+            "name": "Asparagus - Green, Fresh",
+            "description": "ut erat curabitur gravida nisi at nibh in hac habitasse",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "725af244-e640-4323-8c48-084ede9a76ff",
+            "name": "Chicken - Bones",
+            "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/ff4444/ffffff"
+        },
+        {
+            "id": "0f5b6e38-b43e-4fb6-90a3-b7895e26059a",
+            "name": "Juice Peach Nectar",
+            "description": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",
+            "imgUrl": "http://dummyimage.com/100x100.jpg/5fa2dd/ffffff"
+        }
+    ]
+}
