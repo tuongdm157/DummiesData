@@ -7,16 +7,16 @@
             "pageSize": 10,
             "list": [{
                     "id": 1,
-                    "startDate": "2019-01-02",
-                    "endDate": "2019-01-30",
+                    "startDate": "02/12/2019 00:00",
+                    "endDate": "08/07/2018 23:59",
                     "status": "ACTIVE",
                     "title": "title1",
                     "thumbnail": "@/assets/thumbnail.png"
                 },
                 {
                     "id": 2,
-                    "startDate": "2019-01-02",
-                    "endDate": "2019-01-30",
+                    "startDate": "02/12/2019 00:00",
+                    "endDate": "08/07/2018 23:59",
                     "status": "ACTIVE",
                     "title": "title2",
                     "thumbnail": "@/assets/thumbnail.png"
@@ -24,8 +24,8 @@
                 {
 
                     "id": 3,
-                    "startDate": "2019-01-02",
-                    "endDate": "2019-01-30",
+                    "startDate": "02/12/2019 00:00",
+                    "endDate": "08/07/2018 23:59",
                     "status": "INACTIVE",
                     "title": "title3",
                     "thumbnail": "@/assets/thumbnail.png"
