@@ -11,7 +11,7 @@
                     "endDate": "08/07/2018 23:59",
                     "status": "ACTIVE",
                     "title": "title1",
-                    "thumbnail": "@/assets/thumbnail.png"
+                    "thumbnail": "thumbnail"
                 },
                 {
                     "id": 2,
@@ -19,7 +19,7 @@
                     "endDate": "08/07/2018 23:59",
                     "status": "ACTIVE",
                     "title": "title2",
-                    "thumbnail": "@/assets/thumbnail.png"
+                    "thumbnail": "thumbnail"
                 },
                 {
 
@@ -28,7 +28,7 @@
                     "endDate": "08/07/2018 23:59",
                     "status": "INACTIVE",
                     "title": "title3",
-                    "thumbnail": "@/assets/thumbnail.png"
+                    "thumbnail": "thumbnail"
                 }
             ],
             "errorDisplay": false,
