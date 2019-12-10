@@ -9,7 +9,7 @@
                     "id": 1,
                     "startDate": "02/12/2019 00:00",
                     "endDate": "08/07/2018 23:59",
-                    "status": "ACTIVE",
+                    "status": "INACTIVE",
                     "title": "title1",
                     "thumbnail": "thumbnail"
                 },
@@ -17,7 +17,7 @@
                     "id": 2,
                     "startDate": "02/12/2019 00:00",
                     "endDate": "08/07/2018 23:59",
-                    "status": "ACTIVE",
+                    "status": "INACTIVE",
                     "title": "title2",
                     "thumbnail": "thumbnail"
                 },
